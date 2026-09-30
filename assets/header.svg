@@ -1,0 +1,89 @@
+<svg fill="none" viewBox="0 0 880 260" width="100%" height="260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0d1424" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#e0f2fe" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <linearGradient id="cyanLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.4" />
+    </pattern>
+    <radialGradient id="glow" cx="80%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="indigoGlow" cx="20%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; }
+  </style>
+
+  <!-- Card Background -->
+  <rect width="880" height="260" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
+  
+  <!-- Subtle Grid & Radial Glows -->
+  <rect width="880" height="260" rx="16" fill="url(#grid)" />
+  <rect width="880" height="260" rx="16" fill="url(#glow)" />
+  <rect width="880" height="260" rx="16" fill="url(#indigoGlow)" />
+
+  <!-- Window Header / Terminal Bar -->
+  <rect x="0" y="0" width="880" height="42" rx="16" fill="#090d16" fill-opacity="0.8" />
+  <rect x="0" y="24" width="880" height="18" fill="#090d16" fill-opacity="0.8" />
+  <line x1="0" y1="42" x2="880" y2="42" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Terminal Window Controls -->
+  <circle cx="28" cy="21" r="5" fill="#ef4444" />
+  <circle cx="44" cy="21" r="5" fill="#f59e0b" />
+  <circle cx="60" cy="21" r="5" fill="#10b981" />
+
+  <text x="84" y="25" fill="#64748b" font-size="12" class="font-mono">siddharth@workstation: ~/portfolio</text>
+  <text x="760" y="25" fill="#38bdf8" font-size="11" class="font-mono">● LIVE ENVIRONMENT</text>
+
+  <!-- Tag Pill -->
+  <rect x="36" y="62" width="220" height="22" rx="11" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4" />
+  <text x="48" y="77" fill="#38bdf8" font-size="11" font-weight="600" class="font-mono">⚡ B.TECH CSE • DEVELOPER</text>
+
+  <!-- Name / Title -->
+  <text x="36" y="126" fill="url(#nameGrad)" font-size="34" font-weight="800" letter-spacing="-0.5" class="font-sans">SIDDHARTH SINGH</text>
+
+  <!-- Accent Divider -->
+  <line x1="36" y1="140" x2="480" y2="140" stroke="url(#cyanLine)" stroke-width="2" />
+
+  <!-- Professional Subtitle -->
+  <text x="36" y="166" fill="#cbd5e1" font-size="14.5" font-weight="500" class="font-sans">
+    Python Backend Architecture <tspan fill="#38bdf8">|</tspan> Generative AI &amp; LLMs <tspan fill="#38bdf8">|</tspan> Scalable Cloud Systems
+  </text>
+
+  <!-- Focus Badges / Pillars -->
+  <g transform="translate(36, 196)">
+    <!-- Pillar 1 -->
+    <rect x="0" y="0" width="250" height="38" rx="8" fill="#0b1120" stroke="#1e293b" stroke-width="1" />
+    <text x="14" y="16" fill="#38bdf8" font-size="10" font-weight="700" class="font-mono">BACKEND CORE</text>
+    <text x="14" y="29" fill="#94a3b8" font-size="11" class="font-sans">Django • DRF • FastAPI • PostgreSQL</text>
+
+    <!-- Pillar 2 -->
+    <rect x="264" y="0" width="270" height="38" rx="8" fill="#0b1120" stroke="#1e293b" stroke-width="1" />
+    <text x="278" y="16" fill="#818cf8" font-size="10" font-weight="700" class="font-mono">AI &amp; APPLIED ML</text>
+    <text x="278" y="29" fill="#94a3b8" font-size="11" class="font-sans">LLMs • RAG • PyTorch • Agentic AI</text>
+
+    <!-- Pillar 3 -->
+    <rect x="548" y="0" width="260" height="38" rx="8" fill="#0b1120" stroke="#1e293b" stroke-width="1" />
+    <text x="562" y="16" fill="#34d399" font-size="10" font-weight="700" class="font-mono">FEATURED PROJECT</text>
+    <text x="562" y="29" fill="#94a3b8" font-size="11" class="font-sans">HostelTalkies (hosteltalkies.fun)</text>
+  </g>
+</svg>
