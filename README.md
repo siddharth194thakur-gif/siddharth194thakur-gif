@@ -29,39 +29,13 @@ Hi, I'm **Siddharth Singh**, a BTech CSE student focused on building a strong en
 
 ---
 
-### 🤖 AI / ML Focus & Journey
+### 🤖 AI / ML Focus
 
-> *My primary technical pursuit is understanding how intelligent systems work from first principles and applying them to solve practical problems.*
+> *My primary technical pursuit is understanding how intelligent systems work from first principles and applying machine learning architectures to solve practical, real-world problems.*
 
-```
- 🐍 Python
-    │
-    ▼
- 📊 NumPy & Pandas (Data Processing & Matrix Ops)
-    │
-    ▼
- 🧮 Mathematics for ML (Linear Algebra • Calculus • Probability)
-    │
-    ▼
- 🤖 Machine Learning (Supervised & Unsupervised Algorithms)
-    │
-    ▼
- 🧠 Deep Learning (Neural Networks • PyTorch Foundations)
-    │
-    ▼
- ✨ Generative AI (Transformer Architectures • Embeddings)
-    │
-    ▼
- 🔤 Large Language Models (Prompt Engineering • Structured Output)
-    │
-    ▼
- 🔎 RAG (Retrieval-Augmented Generation • Vector Search)
-    │
-    ▼
- 🤖 Agentic AI (Multi-Step Reasoning • Tool-Augmented Workflows)
-```
-
-*Note: I am actively studying and exploring these concepts step-by-step, prioritizing solid mathematical foundations and clean implementation over superficial hype.*
+- 🔬 **Core Pursuit**: Deepening mathematical intuition in linear algebra, calculus, and probability to build robust machine learning models.
+- 💡 **Modern Architectures**: Exploring transformer models, retrieval-augmented systems (RAG), and autonomous agentic workflows.
+- 🛠️ **Engineering Rigor**: Combining sound software engineering practices with data-driven modeling.
 
 ---
 
@@ -153,39 +127,6 @@ flowchart TD
     style D fill:#0d1117,stroke:#f59e0b,stroke-width:1.5px,color:#f8fafc
 ```
 
----
-
-### 🎯 My AI/ML Roadmap
-
-*My step-by-step roadmap for progressing from core computer science fundamentals to production-grade AI systems:*
-
-```mermaid
-flowchart LR
-    A["🐍 Python"] --> B["⚡ DSA"]
-    B --> C["🗄️ DBMS + SQL"]
-    C --> D["🐘 PostgreSQL"]
-    D --> E["📊 NumPy & Pandas"]
-    E --> F["🧮 Math for ML"]
-    F --> G["🤖 Machine Learning"]
-    G --> H["🧠 Deep Learning"]
-    H --> I["✨ Generative AI"]
-    I --> J["🔤 LLMs"]
-    J --> K["🔎 RAG"]
-    K --> L["🤖 Agentic AI"]
-
-    style A fill:#0d1117,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc
-    style B fill:#0d1117,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc
-    style C fill:#0d1117,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc
-    style D fill:#0d1117,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc
-    style E fill:#0d1117,stroke:#818cf8,stroke-width:1.5px,color:#f8fafc
-    style F fill:#0d1117,stroke:#818cf8,stroke-width:1.5px,color:#f8fafc
-    style G fill:#0d1117,stroke:#818cf8,stroke-width:1.5px,color:#f8fafc
-    style H fill:#0d1117,stroke:#a855f7,stroke-width:1.5px,color:#f8fafc
-    style I fill:#0d1117,stroke:#a855f7,stroke-width:1.5px,color:#f8fafc
-    style J fill:#0d1117,stroke:#ec4899,stroke-width:1.5px,color:#f8fafc
-    style K fill:#0d1117,stroke:#ec4899,stroke-width:1.5px,color:#f8fafc
-    style L fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#f8fafc
-```
 
 ---
 
