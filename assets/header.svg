@@ -78,7 +78,7 @@
 
     <!-- Block 3 -->
     <rect x="558" y="0" width="250" height="38" rx="8" fill="#0b1120" stroke="#1e293b" stroke-width="1" />
-    <text x="572" y="16" fill="#34d399" font-size="10" font-weight="700" class="font-mono">MODERN WORKFLOW</text>
-    <text x="572" y="29" fill="#94a3b8" font-size="11" class="font-sans">AI-Assisted Team Development</text>
+    <text x="572" y="16" fill="#34d399" font-size="10" font-weight="700" class="font-mono">COLLABORATION</text>
+    <text x="572" y="29" fill="#94a3b8" font-size="11" class="font-sans">Team-Driven Development</text>
   </g>
 </svg>

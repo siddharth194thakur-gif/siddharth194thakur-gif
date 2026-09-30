@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/siddharth194thakur-gif">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=818CF8&center=true&vCenter=true&width=650&lines=Python+Learner;Exploring+AI+%26+Machine+Learning;HostelTalkies+Team+Contributor;AI-Assisted+Development+Practitioner;B.Tech+CSE+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=818CF8&center=true&vCenter=true&width=650&lines=Python+Learner;Exploring+AI+%26+Machine+Learning;HostelTalkies+Team+Contributor;Hands-on+Project+Builder;B.Tech+CSE+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Hi, I'm **Siddharth Singh**, a BTech CSE student.
 
 - 🐍 **Personal Skill**: I have primarily learned **Python** so far and use it as my core programming language.
 - 🎯 **Career Direction**: My main future focus is **Artificial Intelligence & Machine Learning**. I am currently learning and exploring AI/ML concepts step by step.
-- 👥 **Team Experience**: I contributed as a team member to **[HostelTalkies](https://hosteltalkies.fun)**, a major campus and hostel management web platform built collaboratively with fellow students using modern **AI-assisted development** workflows.
+- 👥 **Team Experience**: I contributed as an active team member to **[HostelTalkies](https://hosteltalkies.fun)**, a major campus and hostel management web platform built collaboratively with fellow students.
 
 ---
 
@@ -40,7 +40,7 @@ Hi, I'm **Siddharth Singh**, a BTech CSE student.
 
 ---
 
-### 🛠️ Tech Stack & Workflow
+### 🛠️ Tech Stack
 
 *Intentionally small and transparently categorized:*
 
@@ -63,9 +63,6 @@ Hi, I'm **Siddharth Singh**, a BTech CSE student.
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-#### 3. Modern Workflow
-- ⚡ **AI-Assisted Development**: The team actively integrated AI coding assistants and modern generative tools to accelerate prototyping, code review, schema design, and implementation throughout the project lifecycle.
-
 ---
 
 ### 🚀 Featured Team Project — HostelTalkies
@@ -84,7 +81,6 @@ Hi, I'm **Siddharth Singh**, a BTech CSE student.
 
 #### 📌 Project Highlights & Team Implementation:
 - 🤝 **Collaborative Team Build**: Built as a team project where multiple members contributed to frontend, backend, data, and design.
-- ⚡ **AI-Assisted Workflow**: The team leveraged modern AI tools throughout the project for scaffolding, debugging, and accelerating feature rollout.
 - 🏛️ **Dynamic Hostel Hierarchy**: Live cascading selection of 16 university hostels, blocks, and room numbers.
 - 📦 **P2P Marketplace & Borrow Tracker**: Student item listings, campus giveaways, and item borrow/lend tracking workflows.
 - 📚 **Study Resources Repository**: Course lecture notes, semester study resources, and university past examination papers (PYQs).
