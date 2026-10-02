@@ -61,7 +61,7 @@
 
   <!-- Subtitle -->
   <text x="36" y="166" fill="#cbd5e1" font-size="14.5" font-weight="500" class="font-sans">
-    Python Foundation <tspan fill="#818cf8">•</tspan> Exploring AI &amp; Machine Learning <tspan fill="#818cf8">•</tspan> Team Contributor to HostelTalkies
+    Python Foundation <tspan fill="#818cf8">•</tspan> Exploring AI &amp; Machine Learning <tspan fill="#818cf8">•</tspan> Hands-on Project Builder
   </text>
 
   <!-- 3 Highlights -->
@@ -73,12 +73,12 @@
 
     <!-- Block 2 -->
     <rect x="274" y="0" width="270" height="38" rx="8" fill="#0b1120" stroke="#1e293b" stroke-width="1" />
-    <text x="288" y="16" fill="#38bdf8" font-size="10" font-weight="700" class="font-mono">FEATURED TEAM PROJECT</text>
-    <text x="288" y="29" fill="#94a3b8" font-size="11" class="font-sans">HostelTalkies (Collaborative Build)</text>
+    <text x="288" y="16" fill="#38bdf8" font-size="10" font-weight="700" class="font-mono">PROJECT WORK</text>
+    <text x="288" y="29" fill="#94a3b8" font-size="11" class="font-sans">Web Platforms &amp; Practical Tools</text>
 
     <!-- Block 3 -->
     <rect x="558" y="0" width="250" height="38" rx="8" fill="#0b1120" stroke="#1e293b" stroke-width="1" />
-    <text x="572" y="16" fill="#34d399" font-size="10" font-weight="700" class="font-mono">COLLABORATION</text>
-    <text x="572" y="29" fill="#94a3b8" font-size="11" class="font-sans">Team-Driven Development</text>
+    <text x="572" y="16" fill="#34d399" font-size="10" font-weight="700" class="font-mono">APPROACH</text>
+    <text x="572" y="29" fill="#94a3b8" font-size="11" class="font-sans">Clean Code &amp; Continuous Learning</text>
   </g>
 </svg>
