@@ -67,35 +67,31 @@ Hi, I'm **Siddharth Singh**, a BTech Computer Science & Engineering student.
 
 A collection of projects, utility tools, and collaborative applications I've built or contributed to:
 
-<!-- ========================================================================= -->
-<!-- PROJECT 1: HostelTalkies                                                  -->
-<!-- ========================================================================= -->
-#### 🏠 [HostelTalkies](https://hosteltalkies.fun)
-> **Campus & Hostel Community Web Platform** *(Collaborative Team Project)*
-- A full-stack campus platform developed with fellow students to simplify dormitory coordination, peer-to-peer item sharing, and academic resource exchange.
-- Features dynamic hostel hierarchy selection, student marketplace, study resources & PYQs repository, and campus announcements.
-- **Tech Stack**: Python • Django REST Framework • React • TypeScript • PostgreSQL • Tailwind CSS
-- **Links**: [Live Platform](https://hosteltalkies.fun) • [Backend Repo](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Backend) • [Frontend Repo](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Frontend)
+<!-- AUTO-GENERATED-PROJECTS:START -->
 
-<!-- ========================================================================= -->
-<!-- PROJECT 2: Calculator                                                     -->
-<!-- ========================================================================= -->
-#### 🧮 [Modern Glassmorphic Calculator](https://github.com/siddharth194thakur-gif/Calculator)
-> **Interactive Responsive Calculator Tool**
-- A clean, modern calculator with a glassmorphism visual aesthetic, responsive button layout, keyboard support, and history tracking.
-- Designed as a practical front-end and algorithmic utility project focusing on UI precision and arithmetic state management.
-- **Tech Stack**: JavaScript • HTML5 • CSS3 • Glassmorphism UI
-- **Links**: [Repository](https://github.com/siddharth194thakur-gif/Calculator)
+#### 🚀 [HostelTalkies — Web App](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Frontend)
+> Full-stack university campus and hostel community platform featuring dynamic room selection, marketplace, study resources & notices.
+- 🛠️ **Tech Stack**: `TypeScript` • `CSS` • `JavaScript` • `HTML` • `React` • `Tailwind CSS`
+- 📌 **Activity**: 🕒 *Updated Oct 2026*
+- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Frontend) &bull; [🌐 Live Demo](https://hosteltalkies.fun)
 
-<!-- ========================================================================= -->
-<!-- Add new projects below following this format:                             -->
-<!--                                                                           -->
-<!-- #### 📌 [Project Name](https://github.com/your-username/repo-name)       -->
-<!-- > **Short One-Line Subtitle / Role**                                      -->
-<!-- - Description of what the project does and key features.                  -->
-<!-- - **Tech Stack**: Technologies used                                       -->
-<!-- - **Links**: [Repository](link) • [Live Demo](link)                      -->
-<!-- ========================================================================= -->
+---
+
+#### 🚀 [HostelTalkies — REST API](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Backend)
+> Production REST API backend with JWT authentication, real-time messaging, study resource repository, and campus moderation.
+- 🛠️ **Tech Stack**: `Python` • `CSS` • `JavaScript` • `HTML` • `Django` • `Django REST Framework`
+- 📌 **Activity**: 🕒 *Updated Oct 2026*
+- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Backend) &bull; [🌐 Live Demo](https://hosteltalkies.fun)
+
+---
+
+#### 🚀 [Modern Glassmorphic Calculator](https://github.com/siddharth194thakur-gif/Calculator)
+> Interactive, responsive web and Python calculation tool featuring glassmorphism design, arithmetic history, and keyboard support.
+- 🛠️ **Tech Stack**: `HTML` • `Python` • `Calculator` • `CLI Tool` • `CSS3` • `Glassmorphism UI`
+- 📌 **Activity**: 🕒 *Updated Sep 2026*
+- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/Calculator)
+
+<!-- AUTO-GENERATED-PROJECTS:END -->
 
 ---
 

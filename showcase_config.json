@@ -1,0 +1,38 @@
+{
+  "username": "siddharth194thakur-gif",
+  "max_projects": 8,
+  "sort_by": "featured_then_updated",
+  "featured_repositories": [
+    "Hostel-Talkies-Frontend",
+    "Hostel-Talkies-Backend",
+    "Calculator"
+  ],
+  "excluded_repositories": [
+    "siddharth194thakur-gif"
+  ],
+  "excluded_topics": [
+    "no-showcase",
+    "practice",
+    "archive",
+    "test",
+    "temporary",
+    "temp"
+  ],
+  "include_forks": false,
+  "custom_overrides": {
+    "Hostel-Talkies-Frontend": {
+      "title": "HostelTalkies — Web App",
+      "description": "Full-stack university campus and hostel community platform featuring dynamic room selection, marketplace, study resources & notices.",
+      "live_demo": "https://hosteltalkies.fun"
+    },
+    "Hostel-Talkies-Backend": {
+      "title": "HostelTalkies — REST API",
+      "description": "Production REST API backend with JWT authentication, real-time messaging, study resource repository, and campus moderation.",
+      "live_demo": "https://hosteltalkies.fun"
+    },
+    "Calculator": {
+      "title": "Modern Glassmorphic Calculator",
+      "description": "Interactive, responsive web and Python calculation tool featuring glassmorphism design, arithmetic history, and keyboard support."
+    }
+  }
+}

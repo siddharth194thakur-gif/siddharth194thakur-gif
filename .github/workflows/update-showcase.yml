@@ -1,0 +1,55 @@
+name: Auto-Update Project Showcase
+
+on:
+  schedule:
+    # Run automatically every 6 hours to detect new repositories & updates
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    # Allows manual trigger at any time from GitHub Actions UI
+  push:
+    branches:
+      - main
+    paths:
+      - 'showcase_config.json'
+      - 'scripts/update_showcase.py'
+      - '.github/workflows/update-showcase.yml'
+
+jobs:
+  update-showcase:
+    name: Sync Project Showcase
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Showcase Automation Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_showcase.py
+
+      - name: Commit and push changes if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if ! git diff --quiet README.md; then
+            echo "Changes detected in README.md. Committing..."
+            git add README.md
+            git commit -m "chore(showcase): auto-sync projects showcase [skip ci]"
+            git push
+            echo "Project showcase updated successfully on GitHub!"
+          else
+            echo "No changes in README.md. Showcase is already up to date. Skipping commit."
+          fi
