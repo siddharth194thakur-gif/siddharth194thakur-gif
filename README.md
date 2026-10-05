@@ -69,22 +69,6 @@ A collection of projects, utility tools, and collaborative applications I've bui
 
 <!-- AUTO-GENERATED-PROJECTS:START -->
 
-#### 🚀 [HostelTalkies — Web App](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Frontend)
-> Full-stack university campus and hostel community platform featuring dynamic room selection, marketplace, study resources & notices.
-- 🛠️ **Tech Stack**: `TypeScript` • `CSS` • `JavaScript` • `HTML` • `React` • `Tailwind CSS`
-- 📌 **Activity**: 🕒 *Updated Oct 2026*
-- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Frontend) &bull; [🌐 Live Demo](https://hosteltalkies.fun)
-
----
-
-#### 🚀 [HostelTalkies — REST API](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Backend)
-> Production REST API backend with JWT authentication, real-time messaging, study resource repository, and campus moderation.
-- 🛠️ **Tech Stack**: `Python` • `CSS` • `JavaScript` • `HTML` • `Django` • `Django REST Framework`
-- 📌 **Activity**: 🕒 *Updated Oct 2026*
-- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/Hostel-Talkies-Backend) &bull; [🌐 Live Demo](https://hosteltalkies.fun)
-
----
-
 #### 🚀 [Modern Glassmorphic Calculator](https://github.com/siddharth194thakur-gif/Calculator)
 > Interactive, responsive web and Python calculation tool featuring glassmorphism design, arithmetic history, and keyboard support.
 - 🛠️ **Tech Stack**: `HTML` • `Python` • `Calculator` • `CLI Tool` • `CSS3` • `Glassmorphism UI`
