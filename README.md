@@ -75,6 +75,14 @@ A collection of projects, utility tools, and collaborative applications I've bui
 - 📌 **Activity**: 🕒 *Updated Sep 2026*
 - 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/Calculator)
 
+---
+
+#### 🚀 [Airline Passenger Satisfaction](https://github.com/siddharth194thakur-gif/airline-passenger-satisfaction)
+> A full-stack, enterprise-grade machine learning web application powered directly by a pre-trained WEKA Random Forest model (projectmodelweka.model).
+- 🛠️ **Tech Stack**: `TypeScript` • `Python` • `Java` • `HTML` • `JavaScript` • `CSS`
+- 📌 **Activity**: 🕒 *Updated Oct 2026*
+- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/airline-passenger-satisfaction) &bull; [🌐 Live Demo](https://frontend-omega-livid-48.vercel.app)
+
 <!-- AUTO-GENERATED-PROJECTS:END -->
 
 ---
