@@ -77,14 +77,6 @@ A collection of projects, utility tools, and collaborative applications I've bui
 
 ---
 
-#### 🚀 [Atax](https://github.com/siddharth194thakur-gif/ATAX)
-> A professional, modern, high-performance business website designed for ATAX, specializing in Tax Consultancy, Accounting, Business Registration, and Financial Compliance Services.
-- 🛠️ **Tech Stack**: `HTML` • `JavaScript` • `CSS`
-- 📌 **Activity**: 🕒 *Updated Nov 2026*
-- 🔗 **Links**: [GitHub Repository](https://github.com/siddharth194thakur-gif/ATAX) &bull; [🌐 Live Demo](https://atax-website.vercel.app)
-
----
-
 #### 🚀 [Airline Passenger Satisfaction](https://github.com/siddharth194thakur-gif/airline-passenger-satisfaction)
 > A full-stack, enterprise-grade machine learning web application powered directly by a pre-trained WEKA Random Forest model (projectmodelweka.model).
 - 🛠️ **Tech Stack**: `TypeScript` • `Python` • `Java` • `HTML` • `JavaScript` • `CSS`
