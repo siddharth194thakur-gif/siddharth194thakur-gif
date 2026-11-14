@@ -1,9 +1,9 @@
 name: Auto-Update Project Showcase
 
 on:
-  schedule:
-    # Run automatically every 6 hours to detect new repositories & updates
-    - cron: "0 */6 * * *"
+  # Automatic schedule disabled to preserve curated developer portfolio showcase
+  # schedule:
+  #   - cron: "0 */6 * * *"
   workflow_dispatch:
     # Allows manual trigger at any time from GitHub Actions UI
   push:
